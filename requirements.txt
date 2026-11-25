@@ -1,3 +1,4 @@
 fastapi
 uvicorn
 requests
+mcp>=2,<3
